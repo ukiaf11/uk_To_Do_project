@@ -1,0 +1,22 @@
+# Backend ignores
+backend/myenv/
+backend/__pycache__/
+backend/*.pyc
+backend/instance/
+backend/.env
+backend/*.sqlite3
+backend/.DS_Store
+backend/.vscode/
+backend/logs/
+backend/coverage/
+backend/*.log
+
+# Frontend ignores
+frontend/node_modules/
+frontend/build/
+frontend/.DS_Store
+frontend/.vscode/
+frontend/.env.local
+frontend/.env.development.local
+frontend/.env.test.local
+frontend/.env.production.local  # Extra safety

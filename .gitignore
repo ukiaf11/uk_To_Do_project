@@ -10,6 +10,7 @@ backend/.vscode/
 backend/logs/
 backend/coverage/
 backend/*.log
+myenv/
 
 # Frontend ignores
 frontend/node_modules/
